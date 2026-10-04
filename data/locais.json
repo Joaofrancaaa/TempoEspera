@@ -1,0 +1,4895 @@
+[
+  {
+    "id": "z65-l1724",
+    "name": "Escola Municipal Paulo Freire",
+    "bairro": "Parque Amazonas - Zona Urbana",
+    "endereco": "Avenida Pedro Neiva de Santana S/n",
+    "lat": -5.5005567,
+    "lng": -47.4501703,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 18,
+    "eleitores": 6475,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0639",
+        "eleitores": 360,
+        "principal": "0639"
+      },
+      {
+        "zona": "65",
+        "secao": "0640",
+        "eleitores": 361,
+        "principal": "0640"
+      },
+      {
+        "zona": "65",
+        "secao": "0641",
+        "eleitores": 359,
+        "principal": "0641"
+      },
+      {
+        "zona": "65",
+        "secao": "0642",
+        "eleitores": 362,
+        "principal": "0642"
+      },
+      {
+        "zona": "65",
+        "secao": "0643",
+        "eleitores": 359,
+        "principal": "0643"
+      },
+      {
+        "zona": "65",
+        "secao": "0644",
+        "eleitores": 362,
+        "principal": "0644"
+      },
+      {
+        "zona": "65",
+        "secao": "0645",
+        "eleitores": 360,
+        "principal": "0645"
+      },
+      {
+        "zona": "65",
+        "secao": "0646",
+        "eleitores": 358,
+        "principal": "0646"
+      },
+      {
+        "zona": "65",
+        "secao": "0647",
+        "eleitores": 358,
+        "principal": "0647"
+      },
+      {
+        "zona": "65",
+        "secao": "0648",
+        "eleitores": 358,
+        "principal": "0648"
+      },
+      {
+        "zona": "65",
+        "secao": "0649",
+        "eleitores": 359,
+        "principal": "0649"
+      },
+      {
+        "zona": "65",
+        "secao": "0650",
+        "eleitores": 359,
+        "principal": "0650"
+      },
+      {
+        "zona": "65",
+        "secao": "0651",
+        "eleitores": 360,
+        "principal": "0651"
+      },
+      {
+        "zona": "65",
+        "secao": "0652",
+        "eleitores": 359,
+        "principal": "0652"
+      },
+      {
+        "zona": "65",
+        "secao": "0653",
+        "eleitores": 356,
+        "principal": "0653"
+      },
+      {
+        "zona": "65",
+        "secao": "0654",
+        "eleitores": 357,
+        "principal": "0654"
+      },
+      {
+        "zona": "65",
+        "secao": "0835",
+        "eleitores": 368,
+        "principal": "0835"
+      },
+      {
+        "zona": "65",
+        "secao": "0847",
+        "eleitores": 360,
+        "principal": "0847"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1708",
+    "name": "Ce Nascimento de Moraes (polivalente)",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Leoncio Pires Dourado, S/n",
+    "lat": -5.5353514,
+    "lng": -47.4780277,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 17,
+    "eleitores": 5691,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0616",
+        "eleitores": 325,
+        "principal": "0616"
+      },
+      {
+        "zona": "65",
+        "secao": "0617",
+        "eleitores": 341,
+        "principal": "0617"
+      },
+      {
+        "zona": "65",
+        "secao": "0618",
+        "eleitores": 333,
+        "principal": "0618"
+      },
+      {
+        "zona": "65",
+        "secao": "0619",
+        "eleitores": 331,
+        "principal": "0619"
+      },
+      {
+        "zona": "65",
+        "secao": "0620",
+        "eleitores": 336,
+        "principal": "0620"
+      },
+      {
+        "zona": "65",
+        "secao": "0621",
+        "eleitores": 341,
+        "principal": "0621"
+      },
+      {
+        "zona": "65",
+        "secao": "0622",
+        "eleitores": 338,
+        "principal": "0622"
+      },
+      {
+        "zona": "65",
+        "secao": "0623",
+        "eleitores": 345,
+        "principal": "0623"
+      },
+      {
+        "zona": "65",
+        "secao": "0624",
+        "eleitores": 341,
+        "principal": "0624"
+      },
+      {
+        "zona": "65",
+        "secao": "0625",
+        "eleitores": 334,
+        "principal": "0625"
+      },
+      {
+        "zona": "65",
+        "secao": "0626",
+        "eleitores": 343,
+        "principal": "0626"
+      },
+      {
+        "zona": "65",
+        "secao": "0627",
+        "eleitores": 334,
+        "principal": "0627"
+      },
+      {
+        "zona": "65",
+        "secao": "0628",
+        "eleitores": 334,
+        "principal": "0628"
+      },
+      {
+        "zona": "65",
+        "secao": "0629",
+        "eleitores": 336,
+        "principal": "0629"
+      },
+      {
+        "zona": "65",
+        "secao": "0630",
+        "eleitores": 328,
+        "principal": "0630"
+      },
+      {
+        "zona": "65",
+        "secao": "0631",
+        "eleitores": 336,
+        "principal": "0631"
+      },
+      {
+        "zona": "65",
+        "secao": "0632",
+        "eleitores": 315,
+        "principal": "0632"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2577",
+    "name": "Em Eliza Nunes",
+    "bairro": "Santa Rita - Zona Urbana",
+    "endereco": "Rua Bom Jesus, S/n",
+    "lat": -5.4998526,
+    "lng": -47.4862547,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 14,
+    "eleitores": 5067,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0736",
+        "eleitores": 370,
+        "principal": "0736"
+      },
+      {
+        "zona": "33",
+        "secao": "0737",
+        "eleitores": 370,
+        "principal": "0737"
+      },
+      {
+        "zona": "33",
+        "secao": "0738",
+        "eleitores": 362,
+        "principal": "0738"
+      },
+      {
+        "zona": "33",
+        "secao": "0739",
+        "eleitores": 359,
+        "principal": "0739"
+      },
+      {
+        "zona": "33",
+        "secao": "0785",
+        "eleitores": 366,
+        "principal": "0785"
+      },
+      {
+        "zona": "33",
+        "secao": "0786",
+        "eleitores": 354,
+        "principal": "0786"
+      },
+      {
+        "zona": "33",
+        "secao": "0787",
+        "eleitores": 362,
+        "principal": "0787"
+      },
+      {
+        "zona": "33",
+        "secao": "0788",
+        "eleitores": 355,
+        "principal": "0788"
+      },
+      {
+        "zona": "33",
+        "secao": "0789",
+        "eleitores": 363,
+        "principal": "0789"
+      },
+      {
+        "zona": "33",
+        "secao": "0790",
+        "eleitores": 365,
+        "principal": "0790"
+      },
+      {
+        "zona": "33",
+        "secao": "0791",
+        "eleitores": 362,
+        "principal": "0791"
+      },
+      {
+        "zona": "33",
+        "secao": "0792",
+        "eleitores": 359,
+        "principal": "0792"
+      },
+      {
+        "zona": "33",
+        "secao": "0793",
+        "eleitores": 359,
+        "principal": "0793"
+      },
+      {
+        "zona": "33",
+        "secao": "0794",
+        "eleitores": 361,
+        "principal": "0794"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1961",
+    "name": "Universidade Ceuma",
+    "bairro": "Entroncamento - Zona Urbana",
+    "endereco": "Rua Barão do Rio Branco, N 100",
+    "lat": -5.5138621,
+    "lng": -47.4725759,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 13,
+    "eleitores": 4432,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0043",
+        "eleitores": 338,
+        "principal": "0043"
+      },
+      {
+        "zona": "33",
+        "secao": "0044",
+        "eleitores": 338,
+        "principal": "0044"
+      },
+      {
+        "zona": "33",
+        "secao": "0045",
+        "eleitores": 335,
+        "principal": "0045"
+      },
+      {
+        "zona": "33",
+        "secao": "0046",
+        "eleitores": 337,
+        "principal": "0046"
+      },
+      {
+        "zona": "33",
+        "secao": "0047",
+        "eleitores": 339,
+        "principal": "0047"
+      },
+      {
+        "zona": "33",
+        "secao": "0303",
+        "eleitores": 340,
+        "principal": "0303"
+      },
+      {
+        "zona": "33",
+        "secao": "0316",
+        "eleitores": 342,
+        "principal": "0316"
+      },
+      {
+        "zona": "33",
+        "secao": "0332",
+        "eleitores": 338,
+        "principal": "0332"
+      },
+      {
+        "zona": "33",
+        "secao": "0345",
+        "eleitores": 338,
+        "principal": "0345"
+      },
+      {
+        "zona": "33",
+        "secao": "0359",
+        "eleitores": 344,
+        "principal": "0359"
+      },
+      {
+        "zona": "33",
+        "secao": "0386",
+        "eleitores": 345,
+        "principal": "0386"
+      },
+      {
+        "zona": "33",
+        "secao": "0444",
+        "eleitores": 338,
+        "principal": "0444"
+      },
+      {
+        "zona": "33",
+        "secao": "0882",
+        "eleitores": 360,
+        "principal": "0882"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2402",
+    "name": "Em Darcy Ribeiro",
+    "bairro": "Parque Sao Jose - Zona Urbana",
+    "endereco": "Rua Nove, 545",
+    "lat": -5.4842755,
+    "lng": -47.4834007,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 12,
+    "eleitores": 4408,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0684",
+        "eleitores": 360,
+        "principal": "0684"
+      },
+      {
+        "zona": "33",
+        "secao": "0685",
+        "eleitores": 362,
+        "principal": "0685"
+      },
+      {
+        "zona": "33",
+        "secao": "0686",
+        "eleitores": 366,
+        "principal": "0686"
+      },
+      {
+        "zona": "33",
+        "secao": "0687",
+        "eleitores": 367,
+        "principal": "0687"
+      },
+      {
+        "zona": "33",
+        "secao": "0688",
+        "eleitores": 360,
+        "principal": "0688"
+      },
+      {
+        "zona": "33",
+        "secao": "0689",
+        "eleitores": 363,
+        "principal": "0689"
+      },
+      {
+        "zona": "33",
+        "secao": "0690",
+        "eleitores": 377,
+        "principal": "0690"
+      },
+      {
+        "zona": "33",
+        "secao": "0691",
+        "eleitores": 359,
+        "principal": "0691"
+      },
+      {
+        "zona": "33",
+        "secao": "0692",
+        "eleitores": 369,
+        "principal": "0692"
+      },
+      {
+        "zona": "33",
+        "secao": "0693",
+        "eleitores": 363,
+        "principal": "0693"
+      },
+      {
+        "zona": "33",
+        "secao": "0878",
+        "eleitores": 379,
+        "principal": "0878"
+      },
+      {
+        "zona": "33",
+        "secao": "0891",
+        "eleitores": 383,
+        "principal": "0891"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2569",
+    "name": "Ce Newton Barjonas Lobão - Caic",
+    "bairro": "Bom Sucesso - Zona Urbana",
+    "endereco": "Rua Dom Evaristo Arns, 1000",
+    "lat": -5.4921715,
+    "lng": -47.4906561,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 12,
+    "eleitores": 4338,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0775",
+        "eleitores": 361,
+        "principal": "0775"
+      },
+      {
+        "zona": "33",
+        "secao": "0776",
+        "eleitores": 360,
+        "principal": "0776"
+      },
+      {
+        "zona": "33",
+        "secao": "0777",
+        "eleitores": 359,
+        "principal": "0777"
+      },
+      {
+        "zona": "33",
+        "secao": "0778",
+        "eleitores": 357,
+        "principal": "0778"
+      },
+      {
+        "zona": "33",
+        "secao": "0779",
+        "eleitores": 373,
+        "principal": "0779"
+      },
+      {
+        "zona": "33",
+        "secao": "0780",
+        "eleitores": 355,
+        "principal": "0780"
+      },
+      {
+        "zona": "33",
+        "secao": "0781",
+        "eleitores": 361,
+        "principal": "0781"
+      },
+      {
+        "zona": "33",
+        "secao": "0782",
+        "eleitores": 361,
+        "principal": "0782"
+      },
+      {
+        "zona": "33",
+        "secao": "0783",
+        "eleitores": 356,
+        "principal": "0783"
+      },
+      {
+        "zona": "33",
+        "secao": "0784",
+        "eleitores": 361,
+        "principal": "0784"
+      },
+      {
+        "zona": "33",
+        "secao": "0879",
+        "eleitores": 369,
+        "principal": "0879"
+      },
+      {
+        "zona": "33",
+        "secao": "0890",
+        "eleitores": 365,
+        "principal": "0890"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1686",
+    "name": "Escola Municipal Machado de Assis",
+    "bairro": "Vila Nova - Zona Urbana",
+    "endereco": "Rua Epitácio Pessoa, 20-a",
+    "lat": -5.5173018,
+    "lng": -47.4566312,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 15,
+    "eleitores": 4294,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0605",
+        "eleitores": 298,
+        "principal": "0605"
+      },
+      {
+        "zona": "65",
+        "secao": "0606",
+        "eleitores": 286,
+        "principal": "0606"
+      },
+      {
+        "zona": "65",
+        "secao": "0607",
+        "eleitores": 289,
+        "principal": "0607"
+      },
+      {
+        "zona": "65",
+        "secao": "0608",
+        "eleitores": 287,
+        "principal": "0608"
+      },
+      {
+        "zona": "65",
+        "secao": "0609",
+        "eleitores": 284,
+        "principal": "0609"
+      },
+      {
+        "zona": "65",
+        "secao": "0610",
+        "eleitores": 285,
+        "principal": "0610"
+      },
+      {
+        "zona": "65",
+        "secao": "0611",
+        "eleitores": 285,
+        "principal": "0611"
+      },
+      {
+        "zona": "65",
+        "secao": "0612",
+        "eleitores": 286,
+        "principal": "0612"
+      },
+      {
+        "zona": "65",
+        "secao": "0613",
+        "eleitores": 285,
+        "principal": "0613"
+      },
+      {
+        "zona": "65",
+        "secao": "0736",
+        "eleitores": 288,
+        "principal": "0736"
+      },
+      {
+        "zona": "65",
+        "secao": "0737",
+        "eleitores": 285,
+        "principal": "0737"
+      },
+      {
+        "zona": "65",
+        "secao": "0738",
+        "eleitores": 284,
+        "principal": "0738"
+      },
+      {
+        "zona": "65",
+        "secao": "0739",
+        "eleitores": 283,
+        "principal": "0739"
+      },
+      {
+        "zona": "65",
+        "secao": "0740",
+        "eleitores": 288,
+        "principal": "0740"
+      },
+      {
+        "zona": "65",
+        "secao": "0741",
+        "eleitores": 281,
+        "principal": "0741"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1449",
+    "name": "Ce Delahê Fiquene",
+    "bairro": "Vila Lobao - Zona Urbana",
+    "endereco": "Rua Duque de Caxias, S/n",
+    "lat": -5.5120393,
+    "lng": -47.4670434,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 4266,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0184",
+        "eleitores": 414,
+        "principal": "0184"
+      },
+      {
+        "zona": "33",
+        "secao": "0185",
+        "eleitores": 460,
+        "principal": "0185"
+      },
+      {
+        "zona": "33",
+        "secao": "0186",
+        "eleitores": 423,
+        "principal": "0186"
+      },
+      {
+        "zona": "33",
+        "secao": "0187",
+        "eleitores": 433,
+        "principal": "0187"
+      },
+      {
+        "zona": "33",
+        "secao": "0188",
+        "eleitores": 433,
+        "principal": "0188"
+      },
+      {
+        "zona": "33",
+        "secao": "0189",
+        "eleitores": 414,
+        "principal": "0189"
+      },
+      {
+        "zona": "33",
+        "secao": "0190",
+        "eleitores": 423,
+        "principal": "0190"
+      },
+      {
+        "zona": "33",
+        "secao": "0401",
+        "eleitores": 427,
+        "principal": "0401"
+      },
+      {
+        "zona": "33",
+        "secao": "0420",
+        "eleitores": 428,
+        "principal": "0420"
+      },
+      {
+        "zona": "33",
+        "secao": "0427",
+        "eleitores": 411,
+        "principal": "0427"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1619",
+    "name": "Escola Municipal Santos Dumont",
+    "bairro": "Bacuri - Zona Urbana",
+    "endereco": "Rua Projetada C, 1232 Entre Ruas Dom Pedro Ii e Cecilia Meireles",
+    "lat": -5.5429015,
+    "lng": -47.4801407,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 12,
+    "eleitores": 4004,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0563",
+        "eleitores": 339,
+        "principal": "0563"
+      },
+      {
+        "zona": "65",
+        "secao": "0564",
+        "eleitores": 346,
+        "principal": "0564"
+      },
+      {
+        "zona": "65",
+        "secao": "0565",
+        "eleitores": 356,
+        "principal": "0565"
+      },
+      {
+        "zona": "65",
+        "secao": "0566",
+        "eleitores": 345,
+        "principal": "0566"
+      },
+      {
+        "zona": "65",
+        "secao": "0567",
+        "eleitores": 347,
+        "principal": "0567"
+      },
+      {
+        "zona": "65",
+        "secao": "0569",
+        "eleitores": 340,
+        "principal": "0569"
+      },
+      {
+        "zona": "65",
+        "secao": "0660",
+        "eleitores": 323,
+        "principal": "0660"
+      },
+      {
+        "zona": "65",
+        "secao": "0661",
+        "eleitores": 321,
+        "principal": "0661"
+      },
+      {
+        "zona": "65",
+        "secao": "0664",
+        "eleitores": 322,
+        "principal": "0664"
+      },
+      {
+        "zona": "65",
+        "secao": "0665",
+        "eleitores": 321,
+        "principal": "0665"
+      },
+      {
+        "zona": "65",
+        "secao": "0666",
+        "eleitores": 321,
+        "principal": "0666"
+      },
+      {
+        "zona": "65",
+        "secao": "0776",
+        "eleitores": 323,
+        "principal": "0776"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2682",
+    "name": "Ce Raimundo Soares da Cunha",
+    "bairro": "Bom Sucesso - Zona Urbana",
+    "endereco": "Rua Bom Jesus, S/n",
+    "lat": -5.4967258,
+    "lng": -47.4852089,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3768,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0835",
+        "eleitores": 372,
+        "principal": "0835"
+      },
+      {
+        "zona": "33",
+        "secao": "0836",
+        "eleitores": 381,
+        "principal": "0836"
+      },
+      {
+        "zona": "33",
+        "secao": "0837",
+        "eleitores": 377,
+        "principal": "0837"
+      },
+      {
+        "zona": "33",
+        "secao": "0838",
+        "eleitores": 381,
+        "principal": "0838"
+      },
+      {
+        "zona": "33",
+        "secao": "0839",
+        "eleitores": 378,
+        "principal": "0839"
+      },
+      {
+        "zona": "33",
+        "secao": "0840",
+        "eleitores": 373,
+        "principal": "0840"
+      },
+      {
+        "zona": "33",
+        "secao": "0841",
+        "eleitores": 375,
+        "principal": "0841"
+      },
+      {
+        "zona": "33",
+        "secao": "0842",
+        "eleitores": 371,
+        "principal": "0842"
+      },
+      {
+        "zona": "33",
+        "secao": "0843",
+        "eleitores": 381,
+        "principal": "0843"
+      },
+      {
+        "zona": "33",
+        "secao": "0844",
+        "eleitores": 379,
+        "principal": "0844"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1570",
+    "name": "Facimp - Faculdade Imperatriz",
+    "bairro": "Residencial Cinco Estrelas - Zona Urbana",
+    "endereco": "Avenida Prudente de Morais, 110",
+    "lat": -5.5118372,
+    "lng": -47.4496245,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3665,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0542",
+        "eleitores": 365,
+        "principal": "0542"
+      },
+      {
+        "zona": "65",
+        "secao": "0543",
+        "eleitores": 366,
+        "principal": "0543"
+      },
+      {
+        "zona": "65",
+        "secao": "0544",
+        "eleitores": 363,
+        "principal": "0544"
+      },
+      {
+        "zona": "65",
+        "secao": "0545",
+        "eleitores": 365,
+        "principal": "0545"
+      },
+      {
+        "zona": "65",
+        "secao": "0775",
+        "eleitores": 362,
+        "principal": "0775"
+      },
+      {
+        "zona": "65",
+        "secao": "0780",
+        "eleitores": 363,
+        "principal": "0780"
+      },
+      {
+        "zona": "65",
+        "secao": "0785",
+        "eleitores": 371,
+        "principal": "0785"
+      },
+      {
+        "zona": "65",
+        "secao": "0830",
+        "eleitores": 381,
+        "principal": "0830"
+      },
+      {
+        "zona": "65",
+        "secao": "0834",
+        "eleitores": 364,
+        "principal": "0834"
+      },
+      {
+        "zona": "65",
+        "secao": "0843",
+        "eleitores": 365,
+        "principal": "0843"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1988",
+    "name": "Em Santa Tereza D'ávila",
+    "bairro": "Vila Cafeteira - Zona Urbana",
+    "endereco": "Rua Tancredo Neves, 294",
+    "lat": -5.4898212,
+    "lng": -47.4609589,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 3580,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0365",
+        "eleitores": 400,
+        "principal": "0365"
+      },
+      {
+        "zona": "33",
+        "secao": "0370",
+        "eleitores": 392,
+        "principal": "0370"
+      },
+      {
+        "zona": "33",
+        "secao": "0379",
+        "eleitores": 391,
+        "principal": "0379"
+      },
+      {
+        "zona": "33",
+        "secao": "0390",
+        "eleitores": 413,
+        "principal": "0390"
+      },
+      {
+        "zona": "33",
+        "secao": "0393",
+        "eleitores": 417,
+        "principal": "0393"
+      },
+      {
+        "zona": "33",
+        "secao": "0400",
+        "eleitores": 391,
+        "principal": "0400"
+      },
+      {
+        "zona": "33",
+        "secao": "0403",
+        "eleitores": 392,
+        "principal": "0403"
+      },
+      {
+        "zona": "33",
+        "secao": "0407",
+        "eleitores": 398,
+        "principal": "0407"
+      },
+      {
+        "zona": "33",
+        "secao": "0895",
+        "eleitores": 386,
+        "principal": "0895"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1902",
+    "name": "Fest - Faculdade de Educação Santa Terezinha",
+    "bairro": "Parque do Buriti - Zona Urbana",
+    "endereco": "Rua Perimetral Castelo Branco, 481",
+    "lat": -5.5466312,
+    "lng": -47.4764754,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3565,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0759",
+        "eleitores": 358,
+        "principal": "0759"
+      },
+      {
+        "zona": "65",
+        "secao": "0760",
+        "eleitores": 360,
+        "principal": "0760"
+      },
+      {
+        "zona": "65",
+        "secao": "0761",
+        "eleitores": 357,
+        "principal": "0761"
+      },
+      {
+        "zona": "65",
+        "secao": "0762",
+        "eleitores": 354,
+        "principal": "0762"
+      },
+      {
+        "zona": "65",
+        "secao": "0763",
+        "eleitores": 359,
+        "principal": "0763"
+      },
+      {
+        "zona": "65",
+        "secao": "0764",
+        "eleitores": 359,
+        "principal": "0764"
+      },
+      {
+        "zona": "65",
+        "secao": "0765",
+        "eleitores": 355,
+        "principal": "0765"
+      },
+      {
+        "zona": "65",
+        "secao": "0766",
+        "eleitores": 355,
+        "principal": "0766"
+      },
+      {
+        "zona": "65",
+        "secao": "0767",
+        "eleitores": 353,
+        "principal": "0767"
+      },
+      {
+        "zona": "65",
+        "secao": "0768",
+        "eleitores": 355,
+        "principal": "0768"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2526",
+    "name": "Colegio Adventista de Imperatriz - Cadi",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Brasil, 1429",
+    "lat": -5.5165574,
+    "lng": -47.4885429,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3552,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0759",
+        "eleitores": 358,
+        "principal": "0759"
+      },
+      {
+        "zona": "33",
+        "secao": "0760",
+        "eleitores": 354,
+        "principal": "0760"
+      },
+      {
+        "zona": "33",
+        "secao": "0761",
+        "eleitores": 354,
+        "principal": "0761"
+      },
+      {
+        "zona": "33",
+        "secao": "0762",
+        "eleitores": 357,
+        "principal": "0762"
+      },
+      {
+        "zona": "33",
+        "secao": "0763",
+        "eleitores": 356,
+        "principal": "0763"
+      },
+      {
+        "zona": "33",
+        "secao": "0764",
+        "eleitores": 357,
+        "principal": "0764"
+      },
+      {
+        "zona": "33",
+        "secao": "0765",
+        "eleitores": 357,
+        "principal": "0765"
+      },
+      {
+        "zona": "33",
+        "secao": "0766",
+        "eleitores": 352,
+        "principal": "0766"
+      },
+      {
+        "zona": "33",
+        "secao": "0767",
+        "eleitores": 354,
+        "principal": "0767"
+      },
+      {
+        "zona": "33",
+        "secao": "0898",
+        "eleitores": 353,
+        "principal": "0898"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1040",
+    "name": "Ce Graça Aranha",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Treze de Maio, Sn",
+    "lat": -5.5248868,
+    "lng": -47.4911042,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3537,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0017",
+        "eleitores": 351,
+        "principal": "0017"
+      },
+      {
+        "zona": "33",
+        "secao": "0018",
+        "eleitores": 359,
+        "principal": "0018"
+      },
+      {
+        "zona": "33",
+        "secao": "0019",
+        "eleitores": 353,
+        "principal": "0019"
+      },
+      {
+        "zona": "33",
+        "secao": "0020",
+        "eleitores": 352,
+        "principal": "0020"
+      },
+      {
+        "zona": "33",
+        "secao": "0021",
+        "eleitores": 345,
+        "principal": "0021"
+      },
+      {
+        "zona": "33",
+        "secao": "0022",
+        "eleitores": 351,
+        "principal": "0022"
+      },
+      {
+        "zona": "33",
+        "secao": "0023",
+        "eleitores": 357,
+        "principal": "0023"
+      },
+      {
+        "zona": "33",
+        "secao": "0024",
+        "eleitores": 361,
+        "principal": "0024"
+      },
+      {
+        "zona": "33",
+        "secao": "0025",
+        "eleitores": 358,
+        "principal": "0025"
+      },
+      {
+        "zona": "33",
+        "secao": "0026",
+        "eleitores": 350,
+        "principal": "0026"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1953",
+    "name": "Em Marly Sarney",
+    "bairro": "Vila Redencao Ii - Zona Urbana",
+    "endereco": "Rua Guarani, Sn",
+    "lat": -5.5065006,
+    "lng": -47.4599907,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 3466,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0308",
+        "eleitores": 380,
+        "principal": "0308"
+      },
+      {
+        "zona": "33",
+        "secao": "0334",
+        "eleitores": 383,
+        "principal": "0334"
+      },
+      {
+        "zona": "33",
+        "secao": "0342",
+        "eleitores": 388,
+        "principal": "0342"
+      },
+      {
+        "zona": "33",
+        "secao": "0352",
+        "eleitores": 381,
+        "principal": "0352"
+      },
+      {
+        "zona": "33",
+        "secao": "0354",
+        "eleitores": 385,
+        "principal": "0354"
+      },
+      {
+        "zona": "33",
+        "secao": "0378",
+        "eleitores": 397,
+        "principal": "0378"
+      },
+      {
+        "zona": "33",
+        "secao": "0384",
+        "eleitores": 387,
+        "principal": "0384"
+      },
+      {
+        "zona": "33",
+        "secao": "0392",
+        "eleitores": 385,
+        "principal": "0392"
+      },
+      {
+        "zona": "33",
+        "secao": "0404",
+        "eleitores": 380,
+        "principal": "0404"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1341",
+    "name": "Universidade Federal do Maranhao - Ufma",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Urbano Santos Sn",
+    "lat": -5.5281968,
+    "lng": -47.4878026,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 13,
+    "eleitores": 3428,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0011",
+        "eleitores": 249,
+        "principal": "0011"
+      },
+      {
+        "zona": "33",
+        "secao": "0027",
+        "eleitores": 292,
+        "principal": "0027"
+      },
+      {
+        "zona": "33",
+        "secao": "0054",
+        "eleitores": 219,
+        "principal": "0054"
+      },
+      {
+        "zona": "33",
+        "secao": "0099",
+        "eleitores": 219,
+        "principal": "0099"
+      },
+      {
+        "zona": "33",
+        "secao": "0102",
+        "eleitores": 219,
+        "principal": "0102"
+      },
+      {
+        "zona": "33",
+        "secao": "0107",
+        "eleitores": 307,
+        "principal": "0107"
+      },
+      {
+        "zona": "33",
+        "secao": "0111",
+        "eleitores": 257,
+        "principal": "0111"
+      },
+      {
+        "zona": "33",
+        "secao": "0143",
+        "eleitores": 289,
+        "principal": "0143"
+      },
+      {
+        "zona": "33",
+        "secao": "0191",
+        "eleitores": 286,
+        "principal": "0191"
+      },
+      {
+        "zona": "33",
+        "secao": "0194",
+        "eleitores": 291,
+        "principal": "0194"
+      },
+      {
+        "zona": "33",
+        "secao": "0197",
+        "eleitores": 291,
+        "principal": "0197"
+      },
+      {
+        "zona": "33",
+        "secao": "0198",
+        "eleitores": 291,
+        "principal": "0198"
+      },
+      {
+        "zona": "33",
+        "secao": "0330",
+        "eleitores": 218,
+        "principal": "0330"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2445",
+    "name": "Faculdade Anhanguera",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Barão do Rio Branco, 300, Centro",
+    "lat": -5.5233681,
+    "lng": -47.4848463,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3423,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0706",
+        "eleitores": 343,
+        "principal": "0706"
+      },
+      {
+        "zona": "33",
+        "secao": "0707",
+        "eleitores": 340,
+        "principal": "0707"
+      },
+      {
+        "zona": "33",
+        "secao": "0708",
+        "eleitores": 344,
+        "principal": "0708"
+      },
+      {
+        "zona": "33",
+        "secao": "0709",
+        "eleitores": 343,
+        "principal": "0709"
+      },
+      {
+        "zona": "33",
+        "secao": "0710",
+        "eleitores": 343,
+        "principal": "0710"
+      },
+      {
+        "zona": "33",
+        "secao": "0711",
+        "eleitores": 344,
+        "principal": "0711"
+      },
+      {
+        "zona": "33",
+        "secao": "0712",
+        "eleitores": 340,
+        "principal": "0712"
+      },
+      {
+        "zona": "33",
+        "secao": "0713",
+        "eleitores": 342,
+        "principal": "0713"
+      },
+      {
+        "zona": "33",
+        "secao": "0714",
+        "eleitores": 342,
+        "principal": "0714"
+      },
+      {
+        "zona": "33",
+        "secao": "0715",
+        "eleitores": 342,
+        "principal": "0715"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1813",
+    "name": "Centro de Ensino de Tempo Integral Tancredo de Almeida Neves",
+    "bairro": "Vila Redencao I - Zona Urbana",
+    "endereco": "Rua Antonio de Miranda, S/n, Vila Redenção I",
+    "lat": -5.5116918,
+    "lng": -47.4618187,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 10,
+    "eleitores": 3048,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0697",
+        "eleitores": 298,
+        "principal": "0697"
+      },
+      {
+        "zona": "65",
+        "secao": "0698",
+        "eleitores": 301,
+        "principal": "0698"
+      },
+      {
+        "zona": "65",
+        "secao": "0699",
+        "eleitores": 311,
+        "principal": "0699"
+      },
+      {
+        "zona": "65",
+        "secao": "0700",
+        "eleitores": 303,
+        "principal": "0700"
+      },
+      {
+        "zona": "65",
+        "secao": "0702",
+        "eleitores": 317,
+        "principal": "0702"
+      },
+      {
+        "zona": "65",
+        "secao": "0703",
+        "eleitores": 306,
+        "principal": "0703"
+      },
+      {
+        "zona": "65",
+        "secao": "0704",
+        "eleitores": 300,
+        "principal": "0704"
+      },
+      {
+        "zona": "65",
+        "secao": "0705",
+        "eleitores": 301,
+        "principal": "0705"
+      },
+      {
+        "zona": "65",
+        "secao": "0706",
+        "eleitores": 310,
+        "principal": "0706"
+      },
+      {
+        "zona": "65",
+        "secao": "0707",
+        "eleitores": 301,
+        "principal": "0707"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2666",
+    "name": "Ifma - Instituto Federal do Maranhão",
+    "bairro": "Parque Independencia - Zona Urbana",
+    "endereco": "Av. Newton Bello, S/n",
+    "lat": -5.4913065,
+    "lng": -47.4958056,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 3037,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0698",
+        "eleitores": 335,
+        "principal": "0698"
+      },
+      {
+        "zona": "33",
+        "secao": "0699",
+        "eleitores": 337,
+        "principal": "0699"
+      },
+      {
+        "zona": "33",
+        "secao": "0830",
+        "eleitores": 333,
+        "principal": "0830"
+      },
+      {
+        "zona": "33",
+        "secao": "0831",
+        "eleitores": 334,
+        "principal": "0831"
+      },
+      {
+        "zona": "33",
+        "secao": "0832",
+        "eleitores": 331,
+        "principal": "0832"
+      },
+      {
+        "zona": "33",
+        "secao": "0862",
+        "eleitores": 334,
+        "principal": "0862"
+      },
+      {
+        "zona": "33",
+        "secao": "0867",
+        "eleitores": 333,
+        "principal": "0867"
+      },
+      {
+        "zona": "33",
+        "secao": "0875",
+        "eleitores": 364,
+        "principal": "0875"
+      },
+      {
+        "zona": "33",
+        "secao": "0889",
+        "eleitores": 336,
+        "principal": "0889"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1635",
+    "name": "Sesi - Serviço Social da Indústria",
+    "bairro": "Mercadinho - Zona Urbana",
+    "endereco": "Rua Aquiles Lisboa, S/n, Mercadinho",
+    "lat": -5.531022,
+    "lng": -47.4780646,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 3017,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0576",
+        "eleitores": 328,
+        "principal": "0576"
+      },
+      {
+        "zona": "65",
+        "secao": "0577",
+        "eleitores": 336,
+        "principal": "0577"
+      },
+      {
+        "zona": "65",
+        "secao": "0578",
+        "eleitores": 331,
+        "principal": "0578"
+      },
+      {
+        "zona": "65",
+        "secao": "0579",
+        "eleitores": 344,
+        "principal": "0579"
+      },
+      {
+        "zona": "65",
+        "secao": "0580",
+        "eleitores": 330,
+        "principal": "0580"
+      },
+      {
+        "zona": "65",
+        "secao": "0581",
+        "eleitores": 334,
+        "principal": "0581"
+      },
+      {
+        "zona": "65",
+        "secao": "0582",
+        "eleitores": 339,
+        "principal": "0582"
+      },
+      {
+        "zona": "65",
+        "secao": "0583",
+        "eleitores": 328,
+        "principal": "0583"
+      },
+      {
+        "zona": "65",
+        "secao": "0584",
+        "eleitores": 347,
+        "principal": "0584"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1880",
+    "name": "Ce Caminho do Futuro",
+    "bairro": "Vila Nova - Zona Urbana",
+    "endereco": "Rua Alvaro Pereira, 800",
+    "lat": -5.5201821,
+    "lng": -47.454201,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 2956,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0742",
+        "eleitores": 336,
+        "principal": "0742"
+      },
+      {
+        "zona": "65",
+        "secao": "0743",
+        "eleitores": 329,
+        "principal": "0743"
+      },
+      {
+        "zona": "65",
+        "secao": "0744",
+        "eleitores": 316,
+        "principal": "0744"
+      },
+      {
+        "zona": "65",
+        "secao": "0745",
+        "eleitores": 341,
+        "principal": "0745"
+      },
+      {
+        "zona": "65",
+        "secao": "0746",
+        "eleitores": 328,
+        "principal": "0746"
+      },
+      {
+        "zona": "65",
+        "secao": "0747",
+        "eleitores": 335,
+        "principal": "0747"
+      },
+      {
+        "zona": "65",
+        "secao": "0748",
+        "eleitores": 349,
+        "principal": "0748"
+      },
+      {
+        "zona": "65",
+        "secao": "0827",
+        "eleitores": 311,
+        "principal": "0827"
+      },
+      {
+        "zona": "65",
+        "secao": "0828",
+        "eleitores": 311,
+        "principal": "0828"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1783",
+    "name": "Escola Municipal de Educação Infantil José Ribamar Garros - Emei",
+    "bairro": "Vilinha - Zona Urbana",
+    "endereco": "Rua 5 31",
+    "lat": -5.5377533,
+    "lng": -47.4525333,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 2945,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0678",
+        "eleitores": 330,
+        "principal": "0678"
+      },
+      {
+        "zona": "65",
+        "secao": "0679",
+        "eleitores": 326,
+        "principal": "0679"
+      },
+      {
+        "zona": "65",
+        "secao": "0680",
+        "eleitores": 327,
+        "principal": "0680"
+      },
+      {
+        "zona": "65",
+        "secao": "0681",
+        "eleitores": 326,
+        "principal": "0681"
+      },
+      {
+        "zona": "65",
+        "secao": "0682",
+        "eleitores": 322,
+        "principal": "0682"
+      },
+      {
+        "zona": "65",
+        "secao": "0683",
+        "eleitores": 320,
+        "principal": "0683"
+      },
+      {
+        "zona": "65",
+        "secao": "0684",
+        "eleitores": 339,
+        "principal": "0684"
+      },
+      {
+        "zona": "65",
+        "secao": "0685",
+        "eleitores": 329,
+        "principal": "0685"
+      },
+      {
+        "zona": "65",
+        "secao": "0687",
+        "eleitores": 326,
+        "principal": "0687"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2712",
+    "name": "Escola Costa e Silva",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Furtunato Bandeira S/n",
+    "lat": -5.5200387,
+    "lng": -47.489554,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 8,
+    "eleitores": 2770,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0854",
+        "eleitores": 348,
+        "principal": "0854"
+      },
+      {
+        "zona": "33",
+        "secao": "0855",
+        "eleitores": 345,
+        "principal": "0855"
+      },
+      {
+        "zona": "33",
+        "secao": "0856",
+        "eleitores": 346,
+        "principal": "0856"
+      },
+      {
+        "zona": "33",
+        "secao": "0857",
+        "eleitores": 346,
+        "principal": "0857"
+      },
+      {
+        "zona": "33",
+        "secao": "0858",
+        "eleitores": 345,
+        "principal": "0858"
+      },
+      {
+        "zona": "33",
+        "secao": "0859",
+        "eleitores": 348,
+        "principal": "0859"
+      },
+      {
+        "zona": "33",
+        "secao": "0860",
+        "eleitores": 345,
+        "principal": "0860"
+      },
+      {
+        "zona": "33",
+        "secao": "0861",
+        "eleitores": 347,
+        "principal": "0861"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2470",
+    "name": "Escola Municipal Pedro Ferreira Alencar",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Avenida Jk, S/n",
+    "lat": -5.5068609,
+    "lng": -47.4878936,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 8,
+    "eleitores": 2689,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0726",
+        "eleitores": 260,
+        "principal": "0726"
+      },
+      {
+        "zona": "33",
+        "secao": "0730",
+        "eleitores": 256,
+        "principal": "0730"
+      },
+      {
+        "zona": "33",
+        "secao": "0744",
+        "eleitores": 364,
+        "principal": "0744"
+      },
+      {
+        "zona": "33",
+        "secao": "0745",
+        "eleitores": 367,
+        "principal": "0745"
+      },
+      {
+        "zona": "33",
+        "secao": "0746",
+        "eleitores": 364,
+        "principal": "0746"
+      },
+      {
+        "zona": "33",
+        "secao": "0747",
+        "eleitores": 361,
+        "principal": "0747"
+      },
+      {
+        "zona": "33",
+        "secao": "0748",
+        "eleitores": 358,
+        "principal": "0748"
+      },
+      {
+        "zona": "33",
+        "secao": "0749",
+        "eleitores": 359,
+        "principal": "0749"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1554",
+    "name": "Ce Vespasiano Ramos",
+    "bairro": "Vila Nova - Zona Urbana",
+    "endereco": "Rua Bandeirantes, S/n",
+    "lat": -5.5233256,
+    "lng": -47.4553191,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2682,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0526",
+        "eleitores": 382,
+        "principal": "0526"
+      },
+      {
+        "zona": "65",
+        "secao": "0527",
+        "eleitores": 387,
+        "principal": "0527"
+      },
+      {
+        "zona": "65",
+        "secao": "0528",
+        "eleitores": 382,
+        "principal": "0528"
+      },
+      {
+        "zona": "65",
+        "secao": "0529",
+        "eleitores": 380,
+        "principal": "0529"
+      },
+      {
+        "zona": "65",
+        "secao": "0530",
+        "eleitores": 382,
+        "principal": "0530"
+      },
+      {
+        "zona": "65",
+        "secao": "0531",
+        "eleitores": 383,
+        "principal": "0531"
+      },
+      {
+        "zona": "65",
+        "secao": "0532",
+        "eleitores": 386,
+        "principal": "0532"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2615",
+    "name": "Colégio Santa Luzia",
+    "bairro": "Santa Rita - Zona Urbana",
+    "endereco": "Rua Sergipe, 1157, Santa Rita",
+    "lat": -5.5037809,
+    "lng": -47.490273,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 8,
+    "eleitores": 2640,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0808",
+        "eleitores": 330,
+        "principal": "0808"
+      },
+      {
+        "zona": "33",
+        "secao": "0809",
+        "eleitores": 333,
+        "principal": "0809"
+      },
+      {
+        "zona": "33",
+        "secao": "0810",
+        "eleitores": 330,
+        "principal": "0810"
+      },
+      {
+        "zona": "33",
+        "secao": "0811",
+        "eleitores": 330,
+        "principal": "0811"
+      },
+      {
+        "zona": "33",
+        "secao": "0812",
+        "eleitores": 328,
+        "principal": "0812"
+      },
+      {
+        "zona": "33",
+        "secao": "0813",
+        "eleitores": 330,
+        "principal": "0813"
+      },
+      {
+        "zona": "33",
+        "secao": "0814",
+        "eleitores": 327,
+        "principal": "0814"
+      },
+      {
+        "zona": "33",
+        "secao": "0815",
+        "eleitores": 332,
+        "principal": "0815"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2658",
+    "name": "Escola Maria Francisca Pereira da Silva",
+    "bairro": "Santa Ines - Zona Urbana",
+    "endereco": "Av Newton Bello S/n",
+    "lat": -5.5012388,
+    "lng": -47.4960179,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2625,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0824",
+        "eleitores": 375,
+        "principal": "0824"
+      },
+      {
+        "zona": "33",
+        "secao": "0825",
+        "eleitores": 374,
+        "principal": "0825"
+      },
+      {
+        "zona": "33",
+        "secao": "0826",
+        "eleitores": 375,
+        "principal": "0826"
+      },
+      {
+        "zona": "33",
+        "secao": "0827",
+        "eleitores": 376,
+        "principal": "0827"
+      },
+      {
+        "zona": "33",
+        "secao": "0828",
+        "eleitores": 375,
+        "principal": "0828"
+      },
+      {
+        "zona": "33",
+        "secao": "0829",
+        "eleitores": 376,
+        "principal": "0829"
+      },
+      {
+        "zona": "33",
+        "secao": "0888",
+        "eleitores": 374,
+        "principal": "0888"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1538",
+    "name": "Uemasul - Universidade Estadual da Região Tocantina do Maranhão",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Godofredo Viana, 1300",
+    "lat": -5.5357955,
+    "lng": -47.4831525,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 2621,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0510",
+        "eleitores": 293,
+        "principal": "0510"
+      },
+      {
+        "zona": "65",
+        "secao": "0511",
+        "eleitores": 300,
+        "principal": "0511"
+      },
+      {
+        "zona": "65",
+        "secao": "0512",
+        "eleitores": 296,
+        "principal": "0512"
+      },
+      {
+        "zona": "65",
+        "secao": "0513",
+        "eleitores": 291,
+        "principal": "0513"
+      },
+      {
+        "zona": "65",
+        "secao": "0514",
+        "eleitores": 293,
+        "principal": "0514"
+      },
+      {
+        "zona": "65",
+        "secao": "0515",
+        "eleitores": 289,
+        "principal": "0515"
+      },
+      {
+        "zona": "65",
+        "secao": "0516",
+        "eleitores": 292,
+        "principal": "0516"
+      },
+      {
+        "zona": "65",
+        "secao": "0517",
+        "eleitores": 291,
+        "principal": "0517"
+      },
+      {
+        "zona": "65",
+        "secao": "0518",
+        "eleitores": 276,
+        "principal": "0518"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2453",
+    "name": "Escola Municipal Santa Tereza",
+    "bairro": "Parque Sao Jose - Zona Urbana",
+    "endereco": "Av. Tiradentes S/n",
+    "lat": -5.4858556,
+    "lng": -47.4868635,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2358,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0716",
+        "eleitores": 339,
+        "principal": "0716"
+      },
+      {
+        "zona": "33",
+        "secao": "0717",
+        "eleitores": 356,
+        "principal": "0717"
+      },
+      {
+        "zona": "33",
+        "secao": "0718",
+        "eleitores": 348,
+        "principal": "0718"
+      },
+      {
+        "zona": "33",
+        "secao": "0719",
+        "eleitores": 358,
+        "principal": "0719"
+      },
+      {
+        "zona": "33",
+        "secao": "0720",
+        "eleitores": 363,
+        "principal": "0720"
+      },
+      {
+        "zona": "33",
+        "secao": "0721",
+        "eleitores": 351,
+        "principal": "0721"
+      },
+      {
+        "zona": "33",
+        "secao": "0899",
+        "eleitores": 243,
+        "principal": "0899"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1562",
+    "name": "Escola Municipal Tiradentes Ii",
+    "bairro": "Parque do Buriti - Zona Urbana",
+    "endereco": "Rua 13 Quadra 702, Nº 18, Parque Buriti",
+    "lat": -5.5487523,
+    "lng": -47.4746444,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2278,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0533",
+        "eleitores": 327,
+        "principal": "0533"
+      },
+      {
+        "zona": "65",
+        "secao": "0534",
+        "eleitores": 321,
+        "principal": "0534"
+      },
+      {
+        "zona": "65",
+        "secao": "0535",
+        "eleitores": 323,
+        "principal": "0535"
+      },
+      {
+        "zona": "65",
+        "secao": "0536",
+        "eleitores": 331,
+        "principal": "0536"
+      },
+      {
+        "zona": "65",
+        "secao": "0537",
+        "eleitores": 326,
+        "principal": "0537"
+      },
+      {
+        "zona": "65",
+        "secao": "0540",
+        "eleitores": 325,
+        "principal": "0540"
+      },
+      {
+        "zona": "65",
+        "secao": "0541",
+        "eleitores": 325,
+        "principal": "0541"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1104",
+    "name": "Em Leôncio Pires Dourado",
+    "bairro": "Juçara - Zona Urbana",
+    "endereco": "Rua Pernambuco, 50",
+    "lat": -5.5197132,
+    "lng": -47.4803354,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 2242,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0048",
+        "eleitores": 377,
+        "principal": "0048"
+      },
+      {
+        "zona": "33",
+        "secao": "0049",
+        "eleitores": 370,
+        "principal": "0049"
+      },
+      {
+        "zona": "33",
+        "secao": "0050",
+        "eleitores": 377,
+        "principal": "0050"
+      },
+      {
+        "zona": "33",
+        "secao": "0051",
+        "eleitores": 369,
+        "principal": "0051"
+      },
+      {
+        "zona": "33",
+        "secao": "0328",
+        "eleitores": 371,
+        "principal": "0328"
+      },
+      {
+        "zona": "33",
+        "secao": "0346",
+        "eleitores": 378,
+        "principal": "0346"
+      }
+    ]
+  },
+  {
+    "id": "z65-l2038",
+    "name": "Escola Municipal Frei Paulo de Graymoor",
+    "bairro": "Parque do Buriti - Zona Urbana",
+    "endereco": "Rua João Pessoa, 731, Bacuri",
+    "lat": -5.5434127,
+    "lng": -47.4711148,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 2221,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0769",
+        "eleitores": 367,
+        "principal": "0769"
+      },
+      {
+        "zona": "65",
+        "secao": "0770",
+        "eleitores": 373,
+        "principal": "0770"
+      },
+      {
+        "zona": "65",
+        "secao": "0771",
+        "eleitores": 369,
+        "principal": "0771"
+      },
+      {
+        "zona": "65",
+        "secao": "0772",
+        "eleitores": 370,
+        "principal": "0772"
+      },
+      {
+        "zona": "65",
+        "secao": "0773",
+        "eleitores": 370,
+        "principal": "0773"
+      },
+      {
+        "zona": "65",
+        "secao": "0774",
+        "eleitores": 372,
+        "principal": "0774"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1465",
+    "name": "Escola Municipal Ipiranga",
+    "bairro": "Vila Ipiranga - Zona Urbana",
+    "endereco": "Rua 4 Sn",
+    "lat": -5.4900332,
+    "lng": -47.4662429,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 2217,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0205",
+        "eleitores": 372,
+        "principal": "0205"
+      },
+      {
+        "zona": "33",
+        "secao": "0206",
+        "eleitores": 368,
+        "principal": "0206"
+      },
+      {
+        "zona": "33",
+        "secao": "0333",
+        "eleitores": 370,
+        "principal": "0333"
+      },
+      {
+        "zona": "33",
+        "secao": "0376",
+        "eleitores": 369,
+        "principal": "0376"
+      },
+      {
+        "zona": "33",
+        "secao": "0436",
+        "eleitores": 370,
+        "principal": "0436"
+      },
+      {
+        "zona": "33",
+        "secao": "0880",
+        "eleitores": 368,
+        "principal": "0880"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2518",
+    "name": "Senai",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Y S/n",
+    "lat": -5.5209152,
+    "lng": -47.4942503,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 9,
+    "eleitores": 2200,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0750",
+        "eleitores": 246,
+        "principal": "0750"
+      },
+      {
+        "zona": "33",
+        "secao": "0751",
+        "eleitores": 243,
+        "principal": "0751"
+      },
+      {
+        "zona": "33",
+        "secao": "0752",
+        "eleitores": 242,
+        "principal": "0752"
+      },
+      {
+        "zona": "33",
+        "secao": "0753",
+        "eleitores": 244,
+        "principal": "0753"
+      },
+      {
+        "zona": "33",
+        "secao": "0754",
+        "eleitores": 245,
+        "principal": "0754"
+      },
+      {
+        "zona": "33",
+        "secao": "0755",
+        "eleitores": 246,
+        "principal": "0755"
+      },
+      {
+        "zona": "33",
+        "secao": "0756",
+        "eleitores": 243,
+        "principal": "0756"
+      },
+      {
+        "zona": "33",
+        "secao": "0757",
+        "eleitores": 246,
+        "principal": "0757"
+      },
+      {
+        "zona": "33",
+        "secao": "0758",
+        "eleitores": 245,
+        "principal": "0758"
+      }
+    ]
+  },
+  {
+    "id": "z65-l2020",
+    "name": "Escola Municipal São Jorge I",
+    "bairro": "Vilinha - Zona Urbana",
+    "endereco": "Rua do Arame, 308",
+    "lat": -5.5378722,
+    "lng": -47.4574984,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2194,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0686",
+        "eleitores": 310,
+        "principal": "0686"
+      },
+      {
+        "zona": "65",
+        "secao": "0688",
+        "eleitores": 306,
+        "principal": "0688"
+      },
+      {
+        "zona": "65",
+        "secao": "0689",
+        "eleitores": 304,
+        "principal": "0689"
+      },
+      {
+        "zona": "65",
+        "secao": "0690",
+        "eleitores": 309,
+        "principal": "0690"
+      },
+      {
+        "zona": "65",
+        "secao": "0832",
+        "eleitores": 335,
+        "principal": "0832"
+      },
+      {
+        "zona": "65",
+        "secao": "0836",
+        "eleitores": 327,
+        "principal": "0836"
+      },
+      {
+        "zona": "65",
+        "secao": "0846",
+        "eleitores": 303,
+        "principal": "0846"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1856",
+    "name": "Escola Municipal Pedro Abreu",
+    "bairro": "Vila Fiquene - Zona Urbana",
+    "endereco": "Rua General Lisboa, 437, em Frente A Praça Davi Alves Silva",
+    "lat": -5.5180634,
+    "lng": -47.4372299,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2147,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0659",
+        "eleitores": 303,
+        "principal": "0659"
+      },
+      {
+        "zona": "65",
+        "secao": "0723",
+        "eleitores": 309,
+        "principal": "0723"
+      },
+      {
+        "zona": "65",
+        "secao": "0724",
+        "eleitores": 312,
+        "principal": "0724"
+      },
+      {
+        "zona": "65",
+        "secao": "0725",
+        "eleitores": 305,
+        "principal": "0725"
+      },
+      {
+        "zona": "65",
+        "secao": "0726",
+        "eleitores": 315,
+        "principal": "0726"
+      },
+      {
+        "zona": "65",
+        "secao": "0727",
+        "eleitores": 302,
+        "principal": "0727"
+      },
+      {
+        "zona": "65",
+        "secao": "0729",
+        "eleitores": 301,
+        "principal": "0729"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1597",
+    "name": "Escola Municipal Moreira Neto",
+    "bairro": "Povoado Lagoa Verde - Zona Rural",
+    "endereco": "Rua Bernardo Sayão, S/n",
+    "lat": -5.4313951,
+    "lng": -47.4721803,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2138,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0256",
+        "eleitores": 302,
+        "principal": "0256"
+      },
+      {
+        "zona": "33",
+        "secao": "0257",
+        "eleitores": 307,
+        "principal": "0257"
+      },
+      {
+        "zona": "33",
+        "secao": "0261",
+        "eleitores": 308,
+        "principal": "0261"
+      },
+      {
+        "zona": "33",
+        "secao": "0262",
+        "eleitores": 305,
+        "principal": "0262"
+      },
+      {
+        "zona": "33",
+        "secao": "0263",
+        "eleitores": 311,
+        "principal": "0263"
+      },
+      {
+        "zona": "33",
+        "secao": "0412",
+        "eleitores": 300,
+        "principal": "0412"
+      },
+      {
+        "zona": "33",
+        "secao": "0887",
+        "eleitores": 305,
+        "principal": "0887"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2437",
+    "name": "Escola Getsêmane",
+    "bairro": "Santa Rita - Zona Urbana",
+    "endereco": "Rua Sergipe N. 1044",
+    "lat": -5.5032217,
+    "lng": -47.4908646,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 2126,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0700",
+        "eleitores": 359,
+        "principal": "0700"
+      },
+      {
+        "zona": "33",
+        "secao": "0701",
+        "eleitores": 353,
+        "principal": "0701"
+      },
+      {
+        "zona": "33",
+        "secao": "0702",
+        "eleitores": 355,
+        "principal": "0702"
+      },
+      {
+        "zona": "33",
+        "secao": "0703",
+        "eleitores": 354,
+        "principal": "0703"
+      },
+      {
+        "zona": "33",
+        "secao": "0704",
+        "eleitores": 352,
+        "principal": "0704"
+      },
+      {
+        "zona": "33",
+        "secao": "0705",
+        "eleitores": 353,
+        "principal": "0705"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2380",
+    "name": "Unisulma - Universidade Sul do Maranhão",
+    "bairro": "Jardim Cristo Rei - Zona Urbana",
+    "endereco": "Rua São Pedro, 11",
+    "lat": -5.5089042,
+    "lng": -47.4844779,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 2112,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0675",
+        "eleitores": 300,
+        "principal": "0675"
+      },
+      {
+        "zona": "33",
+        "secao": "0676",
+        "eleitores": 302,
+        "principal": "0676"
+      },
+      {
+        "zona": "33",
+        "secao": "0677",
+        "eleitores": 298,
+        "principal": "0677"
+      },
+      {
+        "zona": "33",
+        "secao": "0678",
+        "eleitores": 305,
+        "principal": "0678"
+      },
+      {
+        "zona": "33",
+        "secao": "0679",
+        "eleitores": 302,
+        "principal": "0679"
+      },
+      {
+        "zona": "33",
+        "secao": "0680",
+        "eleitores": 303,
+        "principal": "0680"
+      },
+      {
+        "zona": "33",
+        "secao": "0681",
+        "eleitores": 302,
+        "principal": "0681"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1600",
+    "name": "Ce Mourao Rangel",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Av. Getulio Vargas, S/n - Praca Brasil",
+    "lat": -5.5258361,
+    "lng": -47.4761306,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 2112,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0557",
+        "eleitores": 351,
+        "principal": "0557"
+      },
+      {
+        "zona": "65",
+        "secao": "0558",
+        "eleitores": 351,
+        "principal": "0558"
+      },
+      {
+        "zona": "65",
+        "secao": "0559",
+        "eleitores": 349,
+        "principal": "0559"
+      },
+      {
+        "zona": "65",
+        "secao": "0560",
+        "eleitores": 354,
+        "principal": "0560"
+      },
+      {
+        "zona": "65",
+        "secao": "0561",
+        "eleitores": 356,
+        "principal": "0561"
+      },
+      {
+        "zona": "65",
+        "secao": "0562",
+        "eleitores": 351,
+        "principal": "0562"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1597",
+    "name": "Escola Municipal Giovanni Zanni",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Coriolano Milhomem, 2200",
+    "lat": -5.5344694,
+    "lng": -47.4807319,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 8,
+    "eleitores": 2039,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0553",
+        "eleitores": 224,
+        "principal": "0553"
+      },
+      {
+        "zona": "65",
+        "secao": "0555",
+        "eleitores": 210,
+        "principal": "0555"
+      },
+      {
+        "zona": "65",
+        "secao": "0667",
+        "eleitores": 269,
+        "principal": "0667"
+      },
+      {
+        "zona": "65",
+        "secao": "0668",
+        "eleitores": 270,
+        "principal": "0668"
+      },
+      {
+        "zona": "65",
+        "secao": "0669",
+        "eleitores": 265,
+        "principal": "0669"
+      },
+      {
+        "zona": "65",
+        "secao": "0670",
+        "eleitores": 265,
+        "principal": "0670"
+      },
+      {
+        "zona": "65",
+        "secao": "0671",
+        "eleitores": 265,
+        "principal": "0671"
+      },
+      {
+        "zona": "65",
+        "secao": "0672",
+        "eleitores": 271,
+        "principal": "0672"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1899",
+    "name": "Colégio Militar Tiradentes Ii",
+    "bairro": "Bacuri - Zona Urbana",
+    "endereco": "Rua Monte Castelo, 161,",
+    "lat": -5.535373,
+    "lng": -47.4830292,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1972,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0752",
+        "eleitores": 398,
+        "principal": "0752"
+      },
+      {
+        "zona": "65",
+        "secao": "0753",
+        "eleitores": 394,
+        "principal": "0753"
+      },
+      {
+        "zona": "65",
+        "secao": "0756",
+        "eleitores": 393,
+        "principal": "0756"
+      },
+      {
+        "zona": "65",
+        "secao": "0757",
+        "eleitores": 393,
+        "principal": "0757"
+      },
+      {
+        "zona": "65",
+        "secao": "0758",
+        "eleitores": 394,
+        "principal": "0758"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1775",
+    "name": "Escola Municipal Gonçalves Dias",
+    "bairro": "Bacuri - Zona Urbana",
+    "endereco": "Rua Estreita, 154, Bacuri",
+    "lat": -5.5351061,
+    "lng": -47.4737697,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1888,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0673",
+        "eleitores": 379,
+        "principal": "0673"
+      },
+      {
+        "zona": "65",
+        "secao": "0674",
+        "eleitores": 377,
+        "principal": "0674"
+      },
+      {
+        "zona": "65",
+        "secao": "0675",
+        "eleitores": 375,
+        "principal": "0675"
+      },
+      {
+        "zona": "65",
+        "secao": "0676",
+        "eleitores": 377,
+        "principal": "0676"
+      },
+      {
+        "zona": "65",
+        "secao": "0677",
+        "eleitores": 380,
+        "principal": "0677"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1511",
+    "name": "Centro de Ensino Amaral Raposo",
+    "bairro": "Parque Alvorada Ii - Zona Urbana",
+    "endereco": "Rua dos Jaborandis, S/n, Park Imperial",
+    "lat": -5.53269,
+    "lng": -47.4484735,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1886,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0499",
+        "eleitores": 380,
+        "principal": "0499"
+      },
+      {
+        "zona": "65",
+        "secao": "0500",
+        "eleitores": 373,
+        "principal": "0500"
+      },
+      {
+        "zona": "65",
+        "secao": "0501",
+        "eleitores": 379,
+        "principal": "0501"
+      },
+      {
+        "zona": "65",
+        "secao": "0595",
+        "eleitores": 374,
+        "principal": "0595"
+      },
+      {
+        "zona": "65",
+        "secao": "0596",
+        "eleitores": 380,
+        "principal": "0596"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1589",
+    "name": "Centro de Ensino Nova Vitória",
+    "bairro": "Conunto Nova Vitória - Zona Urbana",
+    "endereco": "Rua D S/n Entre Rua D e Rua e",
+    "lat": -5.5648146,
+    "lng": -47.4464779,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1831,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0546",
+        "eleitores": 364,
+        "principal": "0546"
+      },
+      {
+        "zona": "65",
+        "secao": "0547",
+        "eleitores": 367,
+        "principal": "0547"
+      },
+      {
+        "zona": "65",
+        "secao": "0548",
+        "eleitores": 372,
+        "principal": "0548"
+      },
+      {
+        "zona": "65",
+        "secao": "0549",
+        "eleitores": 366,
+        "principal": "0549"
+      },
+      {
+        "zona": "65",
+        "secao": "0831",
+        "eleitores": 362,
+        "principal": "0831"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1716",
+    "name": "Escola Municipal Castro Alves I",
+    "bairro": "Vila Lobao - Zona Urbana",
+    "endereco": "Rua Dom Vital, 238, Entroncamento",
+    "lat": -5.5156549,
+    "lng": -47.468711,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1830,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0633",
+        "eleitores": 314,
+        "principal": "0633"
+      },
+      {
+        "zona": "65",
+        "secao": "0634",
+        "eleitores": 301,
+        "principal": "0634"
+      },
+      {
+        "zona": "65",
+        "secao": "0635",
+        "eleitores": 302,
+        "principal": "0635"
+      },
+      {
+        "zona": "65",
+        "secao": "0636",
+        "eleitores": 301,
+        "principal": "0636"
+      },
+      {
+        "zona": "65",
+        "secao": "0637",
+        "eleitores": 308,
+        "principal": "0637"
+      },
+      {
+        "zona": "65",
+        "secao": "0638",
+        "eleitores": 304,
+        "principal": "0638"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1864",
+    "name": "Escola Municipal Maria Evangelista de Sousa",
+    "bairro": "Itamar Guará Ii",
+    "endereco": "Avenida 1, N 2, Quadra 33",
+    "lat": -5.5809117,
+    "lng": -47.4489167,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1829,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0732",
+        "eleitores": 316,
+        "principal": "0732"
+      },
+      {
+        "zona": "65",
+        "secao": "0733",
+        "eleitores": 321,
+        "principal": "0733"
+      },
+      {
+        "zona": "65",
+        "secao": "0734",
+        "eleitores": 309,
+        "principal": "0734"
+      },
+      {
+        "zona": "65",
+        "secao": "0735",
+        "eleitores": 311,
+        "principal": "0735"
+      },
+      {
+        "zona": "65",
+        "secao": "0778",
+        "eleitores": 311,
+        "principal": "0778"
+      },
+      {
+        "zona": "65",
+        "secao": "0845",
+        "eleitores": 261,
+        "principal": "0845"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1520",
+    "name": "Escola Municipal Fraternidade",
+    "bairro": "Sao Salvador - Zona Urbana",
+    "endereco": "Rua Coriolano Milhomem, 3519",
+    "lat": -5.542164,
+    "lng": -47.4720457,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 7,
+    "eleitores": 1796,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0502",
+        "eleitores": 255,
+        "principal": "0502"
+      },
+      {
+        "zona": "65",
+        "secao": "0503",
+        "eleitores": 259,
+        "principal": "0503"
+      },
+      {
+        "zona": "65",
+        "secao": "0504",
+        "eleitores": 255,
+        "principal": "0504"
+      },
+      {
+        "zona": "65",
+        "secao": "0505",
+        "eleitores": 258,
+        "principal": "0505"
+      },
+      {
+        "zona": "65",
+        "secao": "0506",
+        "eleitores": 256,
+        "principal": "0506"
+      },
+      {
+        "zona": "65",
+        "secao": "0507",
+        "eleitores": 258,
+        "principal": "0507"
+      },
+      {
+        "zona": "65",
+        "secao": "0509",
+        "eleitores": 255,
+        "principal": "0509"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1015",
+    "name": "Emei Profª Juracy Athayde Conceiçào",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Urbano Santos, S/n",
+    "lat": -5.5280935,
+    "lng": -47.4873561,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1781,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0003",
+        "eleitores": 355,
+        "principal": "0003"
+      },
+      {
+        "zona": "33",
+        "secao": "0007",
+        "eleitores": 359,
+        "principal": "0007"
+      },
+      {
+        "zona": "33",
+        "secao": "0009",
+        "eleitores": 359,
+        "principal": "0009"
+      },
+      {
+        "zona": "33",
+        "secao": "0065",
+        "eleitores": 356,
+        "principal": "0065"
+      },
+      {
+        "zona": "33",
+        "secao": "0896",
+        "eleitores": 352,
+        "principal": "0896"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1546",
+    "name": "Escola Municipal Princesa Isabel I",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Bahia, 271, Mercadinho",
+    "lat": -5.5249856,
+    "lng": -47.4731965,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1781,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0520",
+        "eleitores": 295,
+        "principal": "0520"
+      },
+      {
+        "zona": "65",
+        "secao": "0521",
+        "eleitores": 296,
+        "principal": "0521"
+      },
+      {
+        "zona": "65",
+        "secao": "0522",
+        "eleitores": 294,
+        "principal": "0522"
+      },
+      {
+        "zona": "65",
+        "secao": "0523",
+        "eleitores": 298,
+        "principal": "0523"
+      },
+      {
+        "zona": "65",
+        "secao": "0524",
+        "eleitores": 302,
+        "principal": "0524"
+      },
+      {
+        "zona": "65",
+        "secao": "0525",
+        "eleitores": 296,
+        "principal": "0525"
+      }
+    ]
+  },
+  {
+    "id": "z65-l2054",
+    "name": "Escola Municipal de Educ Infantil Prof. Iolanda Eulina de Souza Cortez",
+    "bairro": "Parque Alvorada Ii - Zona Urbana",
+    "endereco": "Rua dos Angelins, S/n, Parque Imperial",
+    "lat": -5.5331787,
+    "lng": -47.4482476,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1731,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0495",
+        "eleitores": 381,
+        "principal": "0495"
+      },
+      {
+        "zona": "65",
+        "secao": "0496",
+        "eleitores": 379,
+        "principal": "0496"
+      },
+      {
+        "zona": "65",
+        "secao": "0497",
+        "eleitores": 376,
+        "principal": "0497"
+      },
+      {
+        "zona": "65",
+        "secao": "0498",
+        "eleitores": 380,
+        "principal": "0498"
+      },
+      {
+        "zona": "65",
+        "secao": "0842",
+        "eleitores": 215,
+        "principal": "0842"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2704",
+    "name": "Escola Municipal Santa Maria",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Santo Cristo S/n",
+    "lat": -5.5160697,
+    "lng": -47.4892005,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1704,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0848",
+        "eleitores": 285,
+        "principal": "0848"
+      },
+      {
+        "zona": "33",
+        "secao": "0849",
+        "eleitores": 285,
+        "principal": "0849"
+      },
+      {
+        "zona": "33",
+        "secao": "0850",
+        "eleitores": 279,
+        "principal": "0850"
+      },
+      {
+        "zona": "33",
+        "secao": "0851",
+        "eleitores": 288,
+        "principal": "0851"
+      },
+      {
+        "zona": "33",
+        "secao": "0852",
+        "eleitores": 284,
+        "principal": "0852"
+      },
+      {
+        "zona": "33",
+        "secao": "0853",
+        "eleitores": 283,
+        "principal": "0853"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1970",
+    "name": "Escola Municipal Domingos Moraes",
+    "bairro": "Recanto Universitário",
+    "endereco": "Rua Urbano Rocha S/n",
+    "lat": -5.5133182,
+    "lng": -47.4333457,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1699,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0728",
+        "eleitores": 339,
+        "principal": "0728"
+      },
+      {
+        "zona": "65",
+        "secao": "0730",
+        "eleitores": 340,
+        "principal": "0730"
+      },
+      {
+        "zona": "65",
+        "secao": "0731",
+        "eleitores": 341,
+        "principal": "0731"
+      },
+      {
+        "zona": "65",
+        "secao": "0824",
+        "eleitores": 341,
+        "principal": "0824"
+      },
+      {
+        "zona": "65",
+        "secao": "0839",
+        "eleitores": 338,
+        "principal": "0839"
+      }
+    ]
+  },
+  {
+    "id": "z65-l2011",
+    "name": "Uemasul - Centro de Ciências Agrárias - Cca",
+    "bairro": "Colinas Park",
+    "endereco": "Rodovia Br 010",
+    "lat": -5.5618762,
+    "lng": -47.4545086,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1684,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0550",
+        "eleitores": 341,
+        "principal": "0550"
+      },
+      {
+        "zona": "65",
+        "secao": "0551",
+        "eleitores": 325,
+        "principal": "0551"
+      },
+      {
+        "zona": "65",
+        "secao": "0552",
+        "eleitores": 330,
+        "principal": "0552"
+      },
+      {
+        "zona": "65",
+        "secao": "0826",
+        "eleitores": 315,
+        "principal": "0826"
+      },
+      {
+        "zona": "65",
+        "secao": "0833",
+        "eleitores": 303,
+        "principal": "0833"
+      },
+      {
+        "zona": "65",
+        "secao": "0851",
+        "eleitores": 70,
+        "principal": "0833"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1872",
+    "name": "Escola Adventista de Imperatriz",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Amazonas, 223, Centro",
+    "lat": -5.5294222,
+    "lng": -47.4825707,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1658,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0597",
+        "eleitores": 296,
+        "principal": "0597"
+      },
+      {
+        "zona": "65",
+        "secao": "0598",
+        "eleitores": 304,
+        "principal": "0598"
+      },
+      {
+        "zona": "65",
+        "secao": "0599",
+        "eleitores": 297,
+        "principal": "0599"
+      },
+      {
+        "zona": "65",
+        "secao": "0600",
+        "eleitores": 299,
+        "principal": "0600"
+      },
+      {
+        "zona": "65",
+        "secao": "0693",
+        "eleitores": 232,
+        "principal": "0693"
+      },
+      {
+        "zona": "65",
+        "secao": "0695",
+        "eleitores": 230,
+        "principal": "0695"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1651",
+    "name": "Universidade Aberta do Brasil - Uab",
+    "bairro": "Uniao - Zona Urbana",
+    "endereco": "Rua Dom Pedro Ii, S/n - Praca Uniao",
+    "lat": -5.5356097,
+    "lng": -47.4856737,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1645,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0589",
+        "eleitores": 275,
+        "principal": "0589"
+      },
+      {
+        "zona": "65",
+        "secao": "0590",
+        "eleitores": 277,
+        "principal": "0590"
+      },
+      {
+        "zona": "65",
+        "secao": "0591",
+        "eleitores": 271,
+        "principal": "0591"
+      },
+      {
+        "zona": "65",
+        "secao": "0592",
+        "eleitores": 275,
+        "principal": "0592"
+      },
+      {
+        "zona": "65",
+        "secao": "0593",
+        "eleitores": 276,
+        "principal": "0593"
+      },
+      {
+        "zona": "65",
+        "secao": "0594",
+        "eleitores": 271,
+        "principal": "0594"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2585",
+    "name": "Escola Raimundo Correa",
+    "bairro": "Boca da Mata - Zona Urbana",
+    "endereco": "Rua Marabazinho S/n",
+    "lat": -5.4971008,
+    "lng": -47.4780315,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 1531,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0795",
+        "eleitores": 306,
+        "principal": "0795"
+      },
+      {
+        "zona": "33",
+        "secao": "0796",
+        "eleitores": 310,
+        "principal": "0796"
+      },
+      {
+        "zona": "33",
+        "secao": "0797",
+        "eleitores": 305,
+        "principal": "0797"
+      },
+      {
+        "zona": "33",
+        "secao": "0798",
+        "eleitores": 306,
+        "principal": "0798"
+      },
+      {
+        "zona": "33",
+        "secao": "0799",
+        "eleitores": 304,
+        "principal": "0799"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2739",
+    "name": "Escola Municipal Menino Jesus Ii",
+    "bairro": "Vila Lobao - Zona Urbana",
+    "endereco": "Rua Bom Futuro, 636",
+    "lat": -5.5132721,
+    "lng": -47.4653628,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1514,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0877",
+        "eleitores": 381,
+        "principal": "0877"
+      },
+      {
+        "zona": "33",
+        "secao": "0883",
+        "eleitores": 377,
+        "principal": "0883"
+      },
+      {
+        "zona": "33",
+        "secao": "0894",
+        "eleitores": 379,
+        "principal": "0894"
+      },
+      {
+        "zona": "33",
+        "secao": "0900",
+        "eleitores": 377,
+        "principal": "0900"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2461",
+    "name": "Escola Santa Rita",
+    "bairro": "Boca da Mata - Zona Urbana",
+    "endereco": "Rua Bila Dutra S/n",
+    "lat": -5.4961188,
+    "lng": -47.4816737,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1499,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0722",
+        "eleitores": 377,
+        "principal": "0722"
+      },
+      {
+        "zona": "33",
+        "secao": "0723",
+        "eleitores": 378,
+        "principal": "0723"
+      },
+      {
+        "zona": "33",
+        "secao": "0724",
+        "eleitores": 373,
+        "principal": "0724"
+      },
+      {
+        "zona": "33",
+        "secao": "0725",
+        "eleitores": 371,
+        "principal": "0725"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2046",
+    "name": "Creche Santa Terezinha",
+    "bairro": "Vila Ipiranga - Zona Urbana",
+    "endereco": "Rua C, 26",
+    "lat": -5.4917471,
+    "lng": -47.4676512,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1471,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0413",
+        "eleitores": 366,
+        "principal": "0413"
+      },
+      {
+        "zona": "33",
+        "secao": "0428",
+        "eleitores": 367,
+        "principal": "0428"
+      },
+      {
+        "zona": "33",
+        "secao": "0434",
+        "eleitores": 368,
+        "principal": "0434"
+      },
+      {
+        "zona": "33",
+        "secao": "0449",
+        "eleitores": 370,
+        "principal": "0449"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1830",
+    "name": "Centro de Ensino Governador Archer",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Coronel Manoel Bandeira 847",
+    "lat": -5.5284522,
+    "lng": -47.4908658,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 6,
+    "eleitores": 1453,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0710",
+        "eleitores": 243,
+        "principal": "0710"
+      },
+      {
+        "zona": "65",
+        "secao": "0711",
+        "eleitores": 243,
+        "principal": "0711"
+      },
+      {
+        "zona": "65",
+        "secao": "0712",
+        "eleitores": 242,
+        "principal": "0712"
+      },
+      {
+        "zona": "65",
+        "secao": "0713",
+        "eleitores": 242,
+        "principal": "0713"
+      },
+      {
+        "zona": "65",
+        "secao": "0714",
+        "eleitores": 242,
+        "principal": "0714"
+      },
+      {
+        "zona": "65",
+        "secao": "0715",
+        "eleitores": 241,
+        "principal": "0715"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1643",
+    "name": "Centro da Pessoa Idosa",
+    "bairro": "Vila Nova - Zona Urbana",
+    "endereco": "Av Sao Sebastiao, S/n, Vila Nova",
+    "lat": -5.5202284,
+    "lng": -47.457312,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1428,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0585",
+        "eleitores": 357,
+        "principal": "0585"
+      },
+      {
+        "zona": "65",
+        "secao": "0586",
+        "eleitores": 355,
+        "principal": "0586"
+      },
+      {
+        "zona": "65",
+        "secao": "0587",
+        "eleitores": 357,
+        "principal": "0587"
+      },
+      {
+        "zona": "65",
+        "secao": "0588",
+        "eleitores": 359,
+        "principal": "0588"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1112",
+    "name": "Em Frei Manoel Procópio",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Dogival Pinheiro de Souza, S/n",
+    "lat": -5.5292462,
+    "lng": -47.4832891,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1243,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0052",
+        "eleitores": 313,
+        "principal": "0052"
+      },
+      {
+        "zona": "33",
+        "secao": "0053",
+        "eleitores": 309,
+        "principal": "0053"
+      },
+      {
+        "zona": "33",
+        "secao": "0083",
+        "eleitores": 319,
+        "principal": "0083"
+      },
+      {
+        "zona": "33",
+        "secao": "0442",
+        "eleitores": 302,
+        "principal": "0442"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2690",
+    "name": "Escola Municipal Edelvira Marques",
+    "bairro": "Conjunto Planalto I - Zona Urbana",
+    "endereco": "Av. Imperatriz, 130",
+    "lat": -5.4908914,
+    "lng": -47.4793718,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1225,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0845",
+        "eleitores": 335,
+        "principal": "0845"
+      },
+      {
+        "zona": "33",
+        "secao": "0846",
+        "eleitores": 327,
+        "principal": "0846"
+      },
+      {
+        "zona": "33",
+        "secao": "0847",
+        "eleitores": 329,
+        "principal": "0847"
+      },
+      {
+        "zona": "33",
+        "secao": "0893",
+        "eleitores": 234,
+        "principal": "0893"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2631",
+    "name": "Escola Municipal Constantino Barbosa da Silva",
+    "bairro": "Ouro Verde - Zona Urbana",
+    "endereco": "R. Gumercina Milhomem",
+    "lat": -5.4781171,
+    "lng": -47.4957044,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1216,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0818",
+        "eleitores": 304,
+        "principal": "0818"
+      },
+      {
+        "zona": "33",
+        "secao": "0819",
+        "eleitores": 304,
+        "principal": "0819"
+      },
+      {
+        "zona": "33",
+        "secao": "0820",
+        "eleitores": 304,
+        "principal": "0820"
+      },
+      {
+        "zona": "33",
+        "secao": "0821",
+        "eleitores": 304,
+        "principal": "0821"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1694",
+    "name": "Escola Municipal da Amizade",
+    "bairro": "Bom Jesus - Zona Urbana",
+    "endereco": "Rua da Amizade, 9",
+    "lat": -5.4977111,
+    "lng": -47.4361917,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 1178,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0614",
+        "eleitores": 392,
+        "principal": "0614"
+      },
+      {
+        "zona": "65",
+        "secao": "0615",
+        "eleitores": 393,
+        "principal": "0615"
+      },
+      {
+        "zona": "65",
+        "secao": "0777",
+        "eleitores": 393,
+        "principal": "0777"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1732",
+    "name": "Incra",
+    "bairro": "Sao Salvador - Zona Urbana",
+    "endereco": "Rua Rafael Almeida Ribeiro, S/n",
+    "lat": -5.5419483,
+    "lng": -47.4676083,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1143,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0655",
+        "eleitores": 283,
+        "principal": "0655"
+      },
+      {
+        "zona": "65",
+        "secao": "0656",
+        "eleitores": 286,
+        "principal": "0656"
+      },
+      {
+        "zona": "65",
+        "secao": "0657",
+        "eleitores": 283,
+        "principal": "0657"
+      },
+      {
+        "zona": "65",
+        "secao": "0658",
+        "eleitores": 291,
+        "principal": "0658"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2747",
+    "name": "Escola Municipal Maria das Neves Marques de Sousa",
+    "bairro": "Alto Bonito - Zona Urbana",
+    "endereco": "Rua Clemente de Moraes, 25, Alto Bonito",
+    "lat": -5.495714,
+    "lng": -47.4601979,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 1096,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0881",
+        "eleitores": 383,
+        "principal": "0881"
+      },
+      {
+        "zona": "33",
+        "secao": "0892",
+        "eleitores": 377,
+        "principal": "0892"
+      },
+      {
+        "zona": "33",
+        "secao": "0901",
+        "eleitores": 336,
+        "principal": "0901"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1996",
+    "name": "Escola Municipal Tia Emilia",
+    "bairro": "Vila Nova - Zona Urbana",
+    "endereco": "Rua Alvaro Pereira, 638",
+    "lat": -5.5360663,
+    "lng": -47.4727872,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 1085,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0749",
+        "eleitores": 342,
+        "principal": "0749"
+      },
+      {
+        "zona": "65",
+        "secao": "0750",
+        "eleitores": 333,
+        "principal": "0750"
+      },
+      {
+        "zona": "65",
+        "secao": "0751",
+        "eleitores": 324,
+        "principal": "0751"
+      },
+      {
+        "zona": "65",
+        "secao": "0850",
+        "eleitores": 86,
+        "principal": "0850"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2755",
+    "name": "Escola Municipal de Educação Infantil José Carneiro dos Santos",
+    "bairro": "Residencial Sebastião Regis",
+    "endereco": "Avenida Principal 01 S/n Residencial Sebastião Régis",
+    "lat": -5.4711434,
+    "lng": -47.5243717,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 1071,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0884",
+        "eleitores": 376,
+        "principal": "0884"
+      },
+      {
+        "zona": "33",
+        "secao": "0885",
+        "eleitores": 372,
+        "principal": "0885"
+      },
+      {
+        "zona": "33",
+        "secao": "0897",
+        "eleitores": 323,
+        "principal": "0897"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1627",
+    "name": "Escola Municipal Prof. José Siney Ferraz Rodrigues",
+    "bairro": "Bacuri - Zona Urbana",
+    "endereco": "Av. Leoncio Pires Dourado, S/n",
+    "lat": -5.5349098,
+    "lng": -47.4783881,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 1042,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0570",
+        "eleitores": 348,
+        "principal": "0570"
+      },
+      {
+        "zona": "65",
+        "secao": "0574",
+        "eleitores": 367,
+        "principal": "0574"
+      },
+      {
+        "zona": "65",
+        "secao": "0841",
+        "eleitores": 327,
+        "principal": "0841"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1333",
+    "name": "Ice - Instituto Cristão de Educação",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Senador Milet, 470, Três Poderes",
+    "lat": -5.5162991,
+    "lng": -47.4774053,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 5,
+    "eleitores": 982,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0092",
+        "eleitores": 198,
+        "principal": "0092"
+      },
+      {
+        "zona": "33",
+        "secao": "0093",
+        "eleitores": 195,
+        "principal": "0093"
+      },
+      {
+        "zona": "33",
+        "secao": "0094",
+        "eleitores": 197,
+        "principal": "0094"
+      },
+      {
+        "zona": "33",
+        "secao": "0095",
+        "eleitores": 192,
+        "principal": "0095"
+      },
+      {
+        "zona": "33",
+        "secao": "0096",
+        "eleitores": 200,
+        "principal": "0096"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1481",
+    "name": "Escola Municipal Marcionilia Gomes Soares (camacari)",
+    "bairro": "Povoado Camacari - Zona Rural",
+    "endereco": "Rua São Raimundo, 400",
+    "lat": -5.4674614,
+    "lng": -47.4201516,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 956,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0486",
+        "eleitores": 321,
+        "principal": "0486"
+      },
+      {
+        "zona": "65",
+        "secao": "0488",
+        "eleitores": 317,
+        "principal": "0488"
+      },
+      {
+        "zona": "65",
+        "secao": "0779",
+        "eleitores": 318,
+        "principal": "0779"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1961",
+    "name": "Universidade Federal do Maranhão - Unidade Bom Jesus",
+    "bairro": "Bom Jesus - Zona Urbana",
+    "endereco": "Avenida da Universidade, S/n, Dom Afonso Felipe Gregory",
+    "lat": -5.5071918,
+    "lng": -47.425759,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 915,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0822",
+        "eleitores": 383,
+        "principal": "0822"
+      },
+      {
+        "zona": "65",
+        "secao": "0837",
+        "eleitores": 382,
+        "principal": "0837"
+      },
+      {
+        "zona": "65",
+        "secao": "0853",
+        "eleitores": 150,
+        "principal": "0853"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1490",
+    "name": "Academia Imperatrizense de Letras",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Urbano Santos S/n",
+    "lat": -5.5301182,
+    "lng": -47.4895611,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 912,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0489",
+        "eleitores": 307,
+        "principal": "0489"
+      },
+      {
+        "zona": "65",
+        "secao": "0490",
+        "eleitores": 317,
+        "principal": "0490"
+      },
+      {
+        "zona": "65",
+        "secao": "0493",
+        "eleitores": 288,
+        "principal": "0493"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1295",
+    "name": "Senac",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Rui Barbosa S/n",
+    "lat": -5.5265352,
+    "lng": -47.4890142,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 4,
+    "eleitores": 910,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0074",
+        "eleitores": 231,
+        "principal": "0074"
+      },
+      {
+        "zona": "33",
+        "secao": "0084",
+        "eleitores": 293,
+        "principal": "0084"
+      },
+      {
+        "zona": "33",
+        "secao": "0085",
+        "eleitores": 214,
+        "principal": "0085"
+      },
+      {
+        "zona": "33",
+        "secao": "0112",
+        "eleitores": 172,
+        "principal": "0112"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2720",
+    "name": "Escola Municipal Lago do Cisne",
+    "bairro": "Vila Redencao I - Zona Urbana",
+    "endereco": "Rua Hermes da Fonseca, 1005",
+    "lat": -5.5091933,
+    "lng": -47.4614502,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 903,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0876",
+        "eleitores": 381,
+        "principal": "0876"
+      },
+      {
+        "zona": "33",
+        "secao": "0886",
+        "eleitores": 375,
+        "principal": "0886"
+      },
+      {
+        "zona": "33",
+        "secao": "0902",
+        "eleitores": 147,
+        "principal": "0902"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1759",
+    "name": "Escola Municipal Santa Laura",
+    "bairro": "Bacuri - Zona Urbana",
+    "endereco": "Rua Beta, 1500-a",
+    "lat": -5.5418419,
+    "lng": -47.4780293,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 755,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0662",
+        "eleitores": 322,
+        "principal": "0662"
+      },
+      {
+        "zona": "65",
+        "secao": "0663",
+        "eleitores": 323,
+        "principal": "0663"
+      },
+      {
+        "zona": "65",
+        "secao": "0852",
+        "eleitores": 110,
+        "principal": "0852"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1953",
+    "name": "Escola Municipal Professor José Queiroz",
+    "bairro": "Vila Vitoria - Zona Urbana",
+    "endereco": "Rua Professor José Queiroz - Vila Vitória",
+    "lat": -5.5544167,
+    "lng": -47.4440883,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 2,
+    "eleitores": 750,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0823",
+        "eleitores": 378,
+        "principal": "0823"
+      },
+      {
+        "zona": "65",
+        "secao": "0838",
+        "eleitores": 372,
+        "principal": "0838"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1120",
+    "name": "Escola Municipal Tocantins",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Simplicio Moreira S/n",
+    "lat": -5.5284028,
+    "lng": -47.4882864,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 3,
+    "eleitores": 660,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0062",
+        "eleitores": 268,
+        "principal": "0062"
+      },
+      {
+        "zona": "33",
+        "secao": "0075",
+        "eleitores": 204,
+        "principal": "0075"
+      },
+      {
+        "zona": "33",
+        "secao": "0863",
+        "eleitores": 188,
+        "principal": "0863"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1805",
+    "name": "Escola Municipal Manoel Ribeiro",
+    "bairro": "Povoado Centro Novo - Zona Rural",
+    "endereco": "Rua Bayma Júnior, S/n",
+    "lat": -5.4392173,
+    "lng": -47.4569944,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 2,
+    "eleitores": 632,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0305",
+        "eleitores": 318,
+        "principal": "0305"
+      },
+      {
+        "zona": "33",
+        "secao": "0431",
+        "eleitores": 314,
+        "principal": "0431"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2550",
+    "name": "Escola Municipal João Batista de Paiva",
+    "bairro": "Nova Imperatriz - Zona Urbana",
+    "endereco": "Rua Brasil, S/n",
+    "lat": -5.521853,
+    "lng": -47.4945425,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 2,
+    "eleitores": 586,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0771",
+        "eleitores": 292,
+        "principal": "0771"
+      },
+      {
+        "zona": "33",
+        "secao": "0773",
+        "eleitores": 294,
+        "principal": "0773"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1864",
+    "name": "Escola Municipal Nossa Senhora de Nazaré",
+    "bairro": "Povoado Lagoa Verde - Zona Rural",
+    "endereco": "Rua Castelo Branco, S/n",
+    "lat": -5.4326166,
+    "lng": -47.4719992,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 2,
+    "eleitores": 441,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0313",
+        "eleitores": 223,
+        "principal": "0313"
+      },
+      {
+        "zona": "33",
+        "secao": "0322",
+        "eleitores": 218,
+        "principal": "0322"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2542",
+    "name": "Escola Municipal Wady Fiquene",
+    "bairro": "Buraco Fundo - Zona Urbana",
+    "endereco": "Rua Caminho das Flores, S/n",
+    "lat": -5.5174673,
+    "lng": -47.4954849,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 279,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0770",
+        "eleitores": 279,
+        "principal": "0770"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2534",
+    "name": "Enock Alves Bezerra",
+    "bairro": "Povoado Imbiral - Zona Rural",
+    "endereco": "Povoado Imbiral",
+    "lat": -5.4610988,
+    "lng": -47.5603014,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 269,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0768",
+        "eleitores": 269,
+        "principal": "0768"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1988",
+    "name": "Escola Municipal Morada do Sol",
+    "bairro": "Jardim Morada do Sol - Zona Urbana",
+    "endereco": "Avenida da Liberdade, 8",
+    "lat": -5.5294345,
+    "lng": -47.4637938,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 216,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0825",
+        "eleitores": 216,
+        "principal": "0825"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1821",
+    "name": "Escola Municipal João Lisboa",
+    "bairro": "Cacauzinho - Zona Urbana",
+    "endereco": "Rua Principal",
+    "lat": -5.5044844,
+    "lng": -47.4058221,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 207,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0708",
+        "eleitores": 207,
+        "principal": "0708"
+      }
+    ]
+  },
+  {
+    "id": "z33-l1686",
+    "name": "Escola Municipal Dom Pedro Ii",
+    "bairro": "Povoado Acaizal - Zona Rural",
+    "endereco": "Povoado Açaizal. Rua Principal, S/n",
+    "lat": -5.3891242,
+    "lng": -47.4303097,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 103,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0275",
+        "eleitores": 103,
+        "principal": "0275"
+      }
+    ]
+  },
+  {
+    "id": "z65-l2070",
+    "name": "Sesi - Serviço Social da Indústria - Voto em Trânsito",
+    "bairro": "Mercadinho - Zona Urbana",
+    "endereco": "Rua Aquiles Lisboa, S/n, Mercadinho",
+    "lat": -5.5308283,
+    "lng": -47.47795,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 0,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0855",
+        "eleitores": 0,
+        "principal": "0855"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2780",
+    "name": "Faculdade Anhanguera (voto em Trânsito)",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Rua Barão do Rio Branco, 300",
+    "lat": -5.5232059,
+    "lng": -47.4844235,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 0,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0904",
+        "eleitores": 0,
+        "principal": "0904"
+      }
+    ]
+  },
+  {
+    "id": "z65-l1929",
+    "name": "Penitenciária Regional de Imperatriz",
+    "bairro": "Itamar Guará I",
+    "endereco": "Rua da Prainha",
+    "lat": -5.58217,
+    "lng": -47.4537967,
+    "zonas": [
+      "65"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 0,
+    "secoes": [
+      {
+        "zona": "65",
+        "secao": "0849",
+        "eleitores": 0,
+        "principal": "0849"
+      }
+    ]
+  },
+  {
+    "id": "z33-l2771",
+    "name": "Escola Municipal Frei Manoel Procopio (voto em Trânsito)",
+    "bairro": "Centro - Zona Urbana",
+    "endereco": "Avenida Dorgival Pinheiro de Souza, S/n",
+    "lat": -5.5292332,
+    "lng": -47.4832751,
+    "zonas": [
+      "33"
+    ],
+    "totalSecoes": 1,
+    "eleitores": 0,
+    "secoes": [
+      {
+        "zona": "33",
+        "secao": "0903",
+        "eleitores": 0,
+        "principal": "0903"
+      }
+    ]
+  }
+]
