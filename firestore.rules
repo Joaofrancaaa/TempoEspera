@@ -1,59 +1,38 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    function narrow(keys, target, se) {
-      let s = se[0];
-      let e = se[1];
-      let mid = int((s + e) / 2);
-      return e <= s + 1
-        ? [s, e]
-        : (keys[s:mid].toSet().hasAny(target) ? [s, mid] : [mid, e]);
-    }
-
-    // Acha a única chave afetada. rules.Set não tem índice; a lista de chaves sim.
-    function soleKey(keys, target) {
-      let a = narrow(keys, target, [0, keys.size()]);
-      let b = narrow(keys, target, a);
-      let c = narrow(keys, target, b);
-      let d = narrow(keys, target, c);
-      let e = narrow(keys, target, d);
-      let f = narrow(keys, target, e);
-      let g = narrow(keys, target, f);
-      let h = narrow(keys, target, g);
-      let i = narrow(keys, target, h);
-      let j = narrow(keys, target, i);
-      let k = narrow(keys, target, j);
-      let l = narrow(keys, target, k);
-      let m = narrow(keys, target, l);
-      let n = narrow(keys, target, m);
-      let o = narrow(keys, target, n);
-      let p = narrow(keys, target, o);
-      return keys[p[0]];
-    }
-
     function validReport(key) {
-      let report = request.resource.data.reports[key];
-      return key == request.auth.uid + '_' + report.filaKey
-        && key.matches('^' + request.auth.uid + '_.+')
+      let report = request.resource.data.reports.get(key, {});
+      let before = resource.data.get('reports', {});
+      let previous = before.get(key, {});
+      return report is map
         && report.keys().hasOnly(['uid', 'filaKey', 'level', 'ts'])
         && report.uid == request.auth.uid
-        && report.filaKey is string
-        && report.filaKey.matches('.+')
+        && report.filaKey == request.resource.data.lastFilaKey
         && report.level in ['vazio', 'moderado', 'demorado']
         && report.ts == request.time
         && (
-          !resource.data.get('reports', {}).keys().hasAny([key])
-          || resource.data.reports[key].ts < request.time - duration.value(10, 'm')
+          !(key in before)
+          || (
+            previous is map
+            && previous.get('ts', request.time) < request.time - duration.value(10, 'm')
+          )
         );
     }
 
     function validSingleReport() {
+      let fila = request.resource.data.lastFilaKey;
       let before = resource.data.get('reports', {});
       let after = request.resource.data.reports;
-      let diff = after.diff(before);
-      return diff.removedKeys().size() == 0
-        && diff.affectedKeys().size() == 1
-        && validReport(soleKey(after.keys(), diff.affectedKeys()));
+      let key = request.auth.uid + '_' + fila;
+      return fila is string
+        && fila.size() > 2
+        && fila.size() < 40
+        && before is map
+        && after is map
+        && after.diff(before).removedKeys().size() == 0
+        && after.diff(before).affectedKeys().hasOnly([key])
+        && validReport(key);
     }
 
     match /{document=**} {
@@ -65,7 +44,8 @@ service cloud.firestore {
       allow create, delete: if false;
 
       allow update: if request.auth != null
-        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['reports'])
+        && request.resource.data.keys().hasAll(['name', 'lat', 'lng', 'reports', 'lastFilaKey'])
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['reports', 'lastFilaKey'])
         && validSingleReport();
     }
   }

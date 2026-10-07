@@ -3,7 +3,7 @@
 import { FirebaseError } from "firebase/app";
 import { doc, FieldPath, serverTimestamp, updateDoc } from "firebase/firestore";
 import { Check, Loader2, MapPin, X } from "lucide-react";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { findSecao, findStationForSection, zonesOf } from "@/lib/catalog";
 import { firebase } from "@/lib/firebase";
 import { GEOFENCE_METERS, GPS_ACCURACY_WARN_METERS, formatDistance, haversineMeters } from "@/lib/geo";
@@ -125,6 +125,7 @@ export function ReportModal({
   const [storedTs, setStoredTs] = useState(0);
   const [tick, setTick] = useState(() => Date.now());
   const [sending, setSending] = useState<Level | null>(null);
+  const sendingRef = useRef(false);
   const [formError, setFormError] = useState<string | null>(null);
   const [sentLevel, setSentLevel] = useState<Level | null>(null);
   const [sentSecao, setSentSecao] = useState<Secao | null>(null);
@@ -268,7 +269,7 @@ export function ReportModal({
   }
 
   async function submit(level: Level) {
-    if (!selected || !firebase || !uid || !activeSecao || !activeFilaKey || sending) return;
+    if (!selected || !firebase || !uid || !activeSecao || !activeFilaKey || sendingRef.current) return;
     if (!/^[A-Za-z0-9]+$/.test(uid)) {
       setFormError("Não foi possível identificar seu acesso. Recarregue a página.");
       return;
@@ -278,9 +279,17 @@ export function ReportModal({
       return;
     }
 
+    const user = firebase.auth.currentUser;
+    if (!user || user.uid !== uid) {
+      setFormError("Não foi possível identificar seu acesso. Recarregue a página.");
+      return;
+    }
+
+    sendingRef.current = true;
     setSending(level);
     setFormError(null);
     try {
+      await user.getIdToken();
       const current = await requestFix();
       setFix(current);
       const meters = haversineMeters(current, selected.station);
@@ -300,6 +309,8 @@ export function ReportModal({
           level,
           ts: serverTimestamp(),
         },
+        "lastFilaKey",
+        activeFilaKey,
       );
 
       const sentAt = Date.now();
@@ -320,6 +331,7 @@ export function ReportModal({
         setFormError(geoErrorMessage(error));
       }
     } finally {
+      sendingRef.current = false;
       setSending(null);
     }
   }
